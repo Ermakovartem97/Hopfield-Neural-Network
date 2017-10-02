@@ -1,5 +1,5 @@
 # Neural-networks
-Realization of neural networks of Hopfield and Hamming.
+Realization of neural networks of Hopfield.
 Python (pylab library).
 
 ![alt text](https://pp.userapi.com/c638117/v638117080/47bbd/TAv2srJPHhs.jpg)
